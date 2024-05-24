@@ -1,0 +1,25 @@
+.li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+
+.title {
+  color: #000000;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.btn {
+  color: #ff0b37;
+  border-color: #ff0b37;
+  cursor: pointer;
+  background-color: #ffffff;
+  padding: 4px 6px 4px 6px;
+  font-family: 'Roboto';
+  outline: none;
+  border-style: solid;
+  border-radius: 8px;
+  margin-left: 10px;
+}
